@@ -34,7 +34,7 @@ I am Samyak Jain, currently pursuing my B.Tech in Electrical Engineering from De
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Pandas](https://img.shields.io/badge/-pandas-336791?style=flat-square&logo=pandas)
 ![Numpy](https://img.shields.io/badge/-numpy-1572B6?style=flat-square&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/-matplotlib-E34A86?style=flat-square&logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/-seaborn-E34A86?style=flat-square&logo=seaborn)
 
 
 
