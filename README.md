@@ -27,10 +27,10 @@ I am Amal Chawla, currently pursuing my B.Tech in Electrical Engineering from De
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Expressjs](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Mongoose](https://img.shields.io/badge/-Mongoose-green?style=flat-square&logo=mongoose)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Pandas](https://img.shields.io/badge/-pandas-336791?style=flat-square&logo=pandas)
 ![Numpy](https://img.shields.io/badge/-numpy-1572B6?style=flat-square&logo=numpy)
