@@ -30,7 +30,7 @@ I am Amal Chawla, currently pursuing my B.Tech in Electrical Engineering from De
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Mongoose](https://img.shields.io/badge/-Mongoose-03C988?style=flat-square&logo=Mongoose)
+![Mongoose](https://img.shields.io/badge/-Mongoose-6ECCAF?style=flat-square&logo=Mongoose)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1572B6?style=flat-square&logo=postgresql)
 ![Pandas](https://img.shields.io/badge/-pandas-336791?style=flat-square&logo=pandas)
 ![Numpy](https://img.shields.io/badge/-numpy-1572B6?style=flat-square&logo=numpy)
