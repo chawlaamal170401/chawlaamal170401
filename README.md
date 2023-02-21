@@ -41,8 +41,8 @@ I am Samyak Jain, currently pursuing my B.Tech in Electrical Engineering from De
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 
 ## 📈 Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=chawlaamal170401&theme=radical)](https://git.io/streak-stats)
 <p align="center">	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=chawlaamal170401&show_icons=true&count_private=true&theme=tokyonight" />
 </p>
-![GitHub Streak](https://streak-stats.demolab.com?user=chawlaamal170401&theme=radical)](https://git.io/streak-stats)
 
