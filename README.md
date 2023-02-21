@@ -30,6 +30,7 @@ I am Samyak Jain, currently pursuing my B.Tech in Electrical Engineering from De
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Pandas](https://img.shields.io/badge/-pandas-336791?style=flat-square&logo=pandas)
 
 ### DevOps & Cloud Tools:
 
