@@ -47,7 +47,7 @@ I am Amal Chawla, currently pursuing my B.Tech in Electrical Engineering from De
 
 ## 📈 Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chawlaamal170401&theme=radical)](https://github.com/chawlaamal170401/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=chawlaamal170401&theme=radical&card_width=300px)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=chawlaamal170401&theme=radical&card_width=300)](https://git.io/streak-stats)
 
 ## 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=chawlaamal170401)](https://github.com/chawlaamal170401/github-profile-trophy)
