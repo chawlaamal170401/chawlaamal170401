@@ -23,6 +23,7 @@ I am Amal Chawla, currently pursuing my B.Tech in Electrical Engineering from De
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 
+
 ### Libraries & Framework :
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -32,8 +33,15 @@ I am Amal Chawla, currently pursuing my B.Tech in Electrical Engineering from De
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-c14438?style=flat-square&logo=Mongoose)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1572B6?style=flat-square&logo=postgresql)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-pandas-336791?style=flat-square&logo=pandas)
 ![Numpy](https://img.shields.io/badge/-numpy-1572B6?style=flat-square&logo=numpy)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
 
 
@@ -51,11 +59,11 @@ I am Amal Chawla, currently pursuing my B.Tech in Electrical Engineering from De
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=chawlaamal170401&show_icons=true&count_private=true&theme=tokyonight" />
   <img width="48%" src="https://streak-stats.demolab.com?user=chawlaamal170401&theme=radical" />
 </p>
-<!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chawlaamal170401&theme=radical)](https://github.com/chawlaamal170401/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=chawlaamal170401&theme=radical&card_width=300)](https://git.io/streak-stats) -->
 
 ## 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=chawlaamal170401)](https://github.com/chawlaamal170401/github-profile-trophy)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chawlaamal170401&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <p align="center">
   <img src="https://github.com/chawlaamal170401/chawlaamal170401/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
