@@ -63,9 +63,6 @@ I am Amal Chawla, currently pursuing my B.Tech in Electrical Engineering from De
 
 ## 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=chawlaamal170401)](https://github.com/chawlaamal170401/github-profile-trophy)
-<!-- 
-## Other
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chawlaamal170401&layout=compact&hide_progress=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <p align="center">
   <img src="https://github.com/chawlaamal170401/chawlaamal170401/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
