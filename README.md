@@ -56,7 +56,7 @@ I am Amal Chawla, currently pursuing my B.Tech in Electrical Engineering from De
 ## 📈 Stats
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=chawlaamal170401&show_icons=true&count_private=true&theme=tokyonight" />
+  <img width="48%" src="[https://github-readme-stats.vercel.app](https://github-readme-stats-sigma-five.vercel.app)/api?username=chawlaamal170401&show_icons=true&count_private=true&theme=tokyonight" />
   <img width="48%" src="https://streak-stats.demolab.com?user=chawlaamal170401&theme=radical" />
 </p>
 
