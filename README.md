@@ -1,6 +1,6 @@
 # I am Amal, Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Amal Chawla, 1+ yr Experienced as a SWE and Graduated B.Tech in Electrical Engineering from Delhi Technological University(formerly Delhi College of Engineering). I am a tech enthusiast & a problem solver. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Amal Chawla, 2 yr Experienced as a SWE and Graduated B.Tech in Electrical Engineering from Delhi Technological University(formerly Delhi College of Engineering). I am a tech enthusiast & a problem solver. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-amalchawla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amalchawla/)](https://www.linkedin.com/in/amalchawla/)
 [![Instagram Badge](https://img.shields.io/badge/-amalchawla-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/amalchawla/)](https://www.instagram.com/_amal_chawla/)
